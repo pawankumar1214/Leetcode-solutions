@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0136-single-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -162,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
