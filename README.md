@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Stack
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0268-missing-number) |
