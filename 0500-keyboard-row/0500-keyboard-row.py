@@ -12,6 +12,6 @@ class Solution:
         for word in words: 
             for row in keyboard:
                 if isWordOnRow(word, row):
-                    out.append(word)
+                    res.append(word)
                     break
         return res
