@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 ## Trie
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
