@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0561-array-partition) |
 ## Binary Search
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0561-array-partition) |
 ## Backtracking
 |  |
 | ------- |
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
