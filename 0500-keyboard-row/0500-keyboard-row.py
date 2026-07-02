@@ -1,7 +1,7 @@
 class Solution:
     def findWords(self, words: List[str]) -> List[str]:
         keyboard = ("qwertyuiop", "asdfghjkl", "zxcvbnm")
-        out = []
+        res = []
 
         def isWordOnRow(word, row):
             for w in word.lower():
@@ -14,4 +14,4 @@ class Solution:
                 if isWordOnRow(word, row):
                     out.append(word)
                     break
-        return out
+        return res
