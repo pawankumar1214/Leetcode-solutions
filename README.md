@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0506-relative-ranks) |
 ## Binary Search
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Sliding Window
 |  |
