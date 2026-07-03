@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Sorting
 |  |
 | ------- |
