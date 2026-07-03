@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Backtracking
 |  |
 | ------- |
