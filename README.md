@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0338-counting-bits) |
+| [0645-set-mismatch](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
