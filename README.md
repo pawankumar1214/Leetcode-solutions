@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0697-degree-of-an-array) |
 ## Sorting
 |  |
 | ------- |
