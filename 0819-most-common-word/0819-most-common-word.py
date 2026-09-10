@@ -1,6 +1,6 @@
 class Solution:
     def mostCommonWord(self, paragraph: str, banned: List[str]) -> str:
-        banned_set = set(banned)  # O(1) lookup instead of O(n)
+        banned_set = set(banned) 
         word_counter = {}
 
         normal_str = ''.join(char.lower() if char.isalnum() else ' ' for char in paragraph)
