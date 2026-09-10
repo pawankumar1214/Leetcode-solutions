@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0705-design-hashset) |
 ## Sorting
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0705-design-hashset) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0705-design-hashset) |
 ## Prefix Sum
 |  |
 | ------- |
