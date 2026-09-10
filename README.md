@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0819-most-common-word) |
 ## Stack
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0819-most-common-word) |
 | [1046-last-stone-weight](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Math
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
+| [0819-most-common-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0819-most-common-word) |
 ## Sorting
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0819-most-common-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0819-most-common-word) |
 ## Design
 |  |
 | ------- |
