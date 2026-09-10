@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0748-shortest-completing-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
 ## Stack
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [1046-last-stone-weight](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Math
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0748-shortest-completing-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
 ## Sorting
 |  |
 | ------- |
