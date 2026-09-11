@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0896-monotonic-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0896-monotonic-array) |
 | [1046-last-stone-weight](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Math
 |  |
