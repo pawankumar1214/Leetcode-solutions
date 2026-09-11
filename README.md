@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0819-most-common-word) |
+| [0929-unique-email-addresses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0929-unique-email-addresses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1046-last-stone-weight](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Math
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0929-unique-email-addresses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
 ## Sorting
 |  |
 | ------- |
