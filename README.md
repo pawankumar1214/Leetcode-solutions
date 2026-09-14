@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0682-baseball-game) |
 ## Linked List
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Recursion
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
