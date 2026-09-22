@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0455-assign-cookies) |
