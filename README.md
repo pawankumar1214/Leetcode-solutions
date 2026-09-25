@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0819-most-common-word) |
 | [0929-unique-email-addresses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
+| [1096-brace-expansion-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [1096-brace-expansion-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0463-island-perimeter) |
+| [1096-brace-expansion-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
+| [1096-brace-expansion-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [1096-brace-expansion-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -324,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [1096-brace-expansion-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Matrix
 |  |
 | ------- |
