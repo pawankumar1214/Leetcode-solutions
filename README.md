@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
