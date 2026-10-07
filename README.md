@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0680-valid-palindrome-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0748-shortest-completing-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0680-valid-palindrome-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Backtracking
 | Problem Name | Difficulty |
