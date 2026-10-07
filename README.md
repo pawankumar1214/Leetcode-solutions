@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0929-unique-email-addresses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
+| [0977-squares-of-a-sorted-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Math
 | Problem Name | Difficulty |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0925-long-pressed-name/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Binary Search
 | Problem Name | Difficulty |
