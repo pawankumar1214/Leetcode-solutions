@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0917-reverse-only-letters](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [0929-unique-email-addresses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1096-brace-expansion-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0917-reverse-only-letters](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
