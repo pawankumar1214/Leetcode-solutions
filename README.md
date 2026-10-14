@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [0929-unique-email-addresses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1096-brace-expansion-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1332-remove-palindromic-subsequences](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1089-duplicate-zeros/) | Easy |
+| [1332-remove-palindromic-subsequences](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
