@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [2000-reverse-prefix-of-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
