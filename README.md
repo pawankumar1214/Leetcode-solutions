@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0929-unique-email-addresses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
+| [0941-valid-mountain-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1089-duplicate-zeros/) | Easy |
