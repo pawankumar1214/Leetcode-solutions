@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [0929-unique-email-addresses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
+| [0944-delete-columns-to-make-sorted](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0929-unique-email-addresses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0941-valid-mountain-array/) | Easy |
+| [0944-delete-columns-to-make-sorted](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1089-duplicate-zeros/) | Easy |
@@ -449,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 <!---LeetCode Topics End-->
