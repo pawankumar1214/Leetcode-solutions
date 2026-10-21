@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
