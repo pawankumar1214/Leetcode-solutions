@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2465-number-of-distinct-averages](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/2465-number-of-distinct-averages/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2465-number-of-distinct-averages](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/2465-number-of-distinct-averages/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1096-brace-expansion-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2465-number-of-distinct-averages](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/2465-number-of-distinct-averages/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2465-number-of-distinct-averages](https://github.com/pawankumar1214/Leetcode-solutions/tree/main/2465-number-of-distinct-averages/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
