@@ -9,3 +9,4 @@ class Solution:
                     result = max(result, i-prev-1)
                 prev = i
         return result
+        
