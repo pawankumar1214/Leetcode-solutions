@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-22T12:59:03.384Z",
+  "updatedAt": "2026-10-22T12:59:09.359Z",
   "problems": [
+    {
+      "frontendId": "925",
+      "title": "Long Pressed Name",
+      "slug": "long-pressed-name",
+      "problemName": "0925-long-pressed-name",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/long-pressed-name/",
+      "folderPath": "0925-long-pressed-name/",
+      "readmePath": "0925-long-pressed-name/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0925-long-pressed-name.py",
+          "path": "0925-long-pressed-name/0925-long-pressed-name.py",
+          "sha": "b96349110389f432c5adc9752f3862bef6250ee0",
+          "lastSyncedAt": "2026-10-22T12:59:09.359Z"
+        }
+      ]
+    },
     {
       "frontendId": "1089",
       "title": "Duplicate Zeros",
