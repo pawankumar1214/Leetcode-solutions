@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "stack",
+    "name": "Stack",
+    "tagId": "15"
+  },
+  "updatedAt": "2026-10-22T12:58:17.128Z",
+  "problems": [
+    {
+      "frontendId": "2000",
+      "title": "Reverse Prefix of Word",
+      "slug": "reverse-prefix-of-word",
+      "problemName": "2000-reverse-prefix-of-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-prefix-of-word/",
+      "folderPath": "2000-reverse-prefix-of-word/",
+      "readmePath": "2000-reverse-prefix-of-word/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2000-reverse-prefix-of-word.py",
+          "path": "2000-reverse-prefix-of-word/2000-reverse-prefix-of-word.py",
+          "sha": "eb3d30a9674888d87936db8e1868b30cd0dd98e1",
+          "lastSyncedAt": "2026-10-22T12:58:17.128Z"
+        }
+      ]
+    }
+  ]
+}
