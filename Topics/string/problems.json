@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T12:59:38.643Z",
+  "updatedAt": "2026-10-22T12:59:47.850Z",
   "problems": [
+    {
+      "frontendId": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "problemName": "0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "folderPath": "0028-find-the-index-of-the-first-occurrence-in-a-string/",
+      "readmePath": "0028-find-the-index-of-the-first-occurrence-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.py",
+          "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
+          "sha": "1ddcfe3c3264edbdc10096100c3f7b7c41d6ee98",
+          "lastSyncedAt": "2026-10-22T12:59:47.850Z"
+        }
+      ]
+    },
     {
       "frontendId": "680",
       "title": "Valid Palindrome II",
