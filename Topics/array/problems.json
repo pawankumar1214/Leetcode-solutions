@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array",
+    "tagId": "5"
+  },
+  "updatedAt": "2026-10-22T12:57:01.553Z",
+  "problems": [
+    {
+      "frontendId": "2511",
+      "title": "Maximum Enemy Forts That Can Be Captured",
+      "slug": "maximum-enemy-forts-that-can-be-captured",
+      "problemName": "2511-maximum-enemy-forts-that-can-be-captured",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/",
+      "folderPath": "2511-maximum-enemy-forts-that-can-be-captured/",
+      "readmePath": "2511-maximum-enemy-forts-that-can-be-captured/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2511-maximum-enemy-forts-that-can-be-captured.py",
+          "path": "2511-maximum-enemy-forts-that-can-be-captured/2511-maximum-enemy-forts-that-can-be-captured.py",
+          "sha": "f4aeb59f34a0defd80d7894a520cb04153ab4253",
+          "lastSyncedAt": "2026-10-22T12:57:01.553Z"
+        }
+      ]
+    }
+  ]
+}
