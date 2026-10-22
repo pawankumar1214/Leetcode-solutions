@@ -1,36 +1,23 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🧠 LeetCode Solutions
 
-<!---LeetHub Summary Start-->
-## LeetHub Summary
+> Auto-synced by [LeetCommit](https://github.com/your-username/commitcode)
 
-| Total Solved | Easy | Medium | Hard |
-| ---: | ---: | ---: | ---: |
-| 0 | 0 | 0 | 0 |
+## Stats
 
-## Activity
+| Metric | Count |
+|--------|-------|
+| Total Solved | 1 |
+| Easy | 1 |
+| Medium | 0 |
+| Hard | 0 |
+| Current Streak | 1 days |
+| Last Synced | 22/10/2026 |
 
-| Current Streak | Best Streak | Active Days |
-| ---: | ---: | ---: |
-| 0 days | 0 days | 0 |
+## Languages
 
-| Date | Problems |
-| --- | ---: |
-| - | 0 |
+| Language | Solutions |
+|----------|-----------|
+| Python | 1 |
 
-## Top Tags
-
-| Tag | Problems | Coverage |
-| --- | ---: | ---: |
-| - | 0 | 0% |
-
-## Topics
-
-| Topic | Problems |
-| --- | ---: |
-| [Array](Topics/array/) | 5 |
-| [Hash Table](Topics/hash-table/) | 1 |
-| [Simulation](Topics/simulation/) | 1 |
-| [Sorting](Topics/sorting/) | 1 |
-| [String](Topics/string/) | 3 |
-| [Two Pointers](Topics/two-pointers/) | 5 |
-<!---LeetHub Summary End-->
+---
+*Last updated: 2026-10-22T13:02:23.912Z*
