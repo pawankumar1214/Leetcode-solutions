@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-22T13:00:07.441Z",
+  "updatedAt": "2026-10-22T13:00:48.006Z",
   "problems": [
     {
       "frontendId": "653",
@@ -24,6 +24,26 @@
           "path": "0653-two-sum-iv-input-is-a-bst/0653-two-sum-iv-input-is-a-bst.py",
           "sha": "9a7919bf3e0384fd3d92c11edd8c978d2d8aef46",
           "lastSyncedAt": "2026-10-22T13:00:07.441Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1096",
+      "title": "Brace Expansion II",
+      "slug": "brace-expansion-ii",
+      "problemName": "1096-brace-expansion-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion-ii/",
+      "folderPath": "1096-brace-expansion-ii/",
+      "readmePath": "1096-brace-expansion-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1096-brace-expansion-ii.py",
+          "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.py",
+          "sha": "f7cd0e58d091e5b4fd8d1efea711a4d1f6db5720",
+          "lastSyncedAt": "2026-10-22T13:00:48.006Z"
         }
       ]
     },
