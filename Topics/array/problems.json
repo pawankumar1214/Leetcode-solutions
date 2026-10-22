@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T12:57:50.938Z",
+  "updatedAt": "2026-10-22T12:58:03.452Z",
   "problems": [
+    {
+      "frontendId": "941",
+      "title": "Valid Mountain Array",
+      "slug": "valid-mountain-array",
+      "problemName": "0941-valid-mountain-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-mountain-array/",
+      "folderPath": "0941-valid-mountain-array/",
+      "readmePath": "0941-valid-mountain-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0941-valid-mountain-array.py",
+          "path": "0941-valid-mountain-array/0941-valid-mountain-array.py",
+          "sha": "d6e648d79046067cb26ed042c43982c5726de3c3",
+          "lastSyncedAt": "2026-10-22T12:58:03.452Z"
+        }
+      ]
+    },
     {
       "frontendId": "944",
       "title": "Delete Columns to Make Sorted",
