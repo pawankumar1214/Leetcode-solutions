@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T12:57:44.112Z",
+  "updatedAt": "2026-10-22T12:57:50.938Z",
   "problems": [
+    {
+      "frontendId": "944",
+      "title": "Delete Columns to Make Sorted",
+      "slug": "delete-columns-to-make-sorted",
+      "problemName": "0944-delete-columns-to-make-sorted",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-columns-to-make-sorted/",
+      "folderPath": "0944-delete-columns-to-make-sorted/",
+      "readmePath": "0944-delete-columns-to-make-sorted/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0944-delete-columns-to-make-sorted.py",
+          "path": "0944-delete-columns-to-make-sorted/0944-delete-columns-to-make-sorted.py",
+          "sha": "8ac45d2d168fc413cac751404be6ab6ff0de8995",
+          "lastSyncedAt": "2026-10-22T12:57:50.938Z"
+        }
+      ]
+    },
     {
       "frontendId": "1332",
       "title": "Remove Palindromic Subsequences",
