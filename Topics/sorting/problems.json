@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T12:58:41.377Z",
+  "updatedAt": "2026-10-22T12:58:52.660Z",
   "problems": [
+    {
+      "frontendId": "1346",
+      "title": "Check If N and Its Double Exist",
+      "slug": "check-if-n-and-its-double-exist",
+      "problemName": "1346-check-if-n-and-its-double-exist",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-n-and-its-double-exist/",
+      "folderPath": "1346-check-if-n-and-its-double-exist/",
+      "readmePath": "1346-check-if-n-and-its-double-exist/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1346-check-if-n-and-its-double-exist.py",
+          "path": "1346-check-if-n-and-its-double-exist/1346-check-if-n-and-its-double-exist.py",
+          "sha": "794ff832cefb887605d29de0e59836d5c583509b",
+          "lastSyncedAt": "2026-10-22T12:58:52.660Z"
+        }
+      ]
+    },
     {
       "frontendId": "1385",
       "title": "Find the Distance Value Between Two Arrays",
