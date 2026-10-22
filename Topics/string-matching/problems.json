@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string-matching",
+    "name": "String Matching",
+    "tagId": "61052"
+  },
+  "updatedAt": "2026-10-22T12:58:32.795Z",
+  "problems": [
+    {
+      "frontendId": "1455",
+      "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+      "slug": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+      "problemName": "1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/",
+      "folderPath": "1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/",
+      "readmePath": "1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py",
+          "path": "1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py",
+          "sha": "eb0a873aa6637139daac185734c473efd29e3740",
+          "lastSyncedAt": "2026-10-22T12:58:32.795Z"
+        }
+      ]
+    }
+  ]
+}
