@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-22T12:58:52.660Z",
+  "updatedAt": "2026-10-22T12:59:03.384Z",
   "problems": [
+    {
+      "frontendId": "1089",
+      "title": "Duplicate Zeros",
+      "slug": "duplicate-zeros",
+      "problemName": "1089-duplicate-zeros",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/duplicate-zeros/",
+      "folderPath": "1089-duplicate-zeros/",
+      "readmePath": "1089-duplicate-zeros/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1089-duplicate-zeros.py",
+          "path": "1089-duplicate-zeros/1089-duplicate-zeros.py",
+          "sha": "9ee73bc1b5f1a148aeaeea2af98e2744623e1346",
+          "lastSyncedAt": "2026-10-22T12:59:03.384Z"
+        }
+      ]
+    },
     {
       "frontendId": "1332",
       "title": "Remove Palindromic Subsequences",
