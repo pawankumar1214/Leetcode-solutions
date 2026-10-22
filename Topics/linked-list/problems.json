@@ -5,8 +5,28 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-22T12:59:29.707Z",
+  "updatedAt": "2026-10-22T13:00:41.612Z",
   "problems": [
+    {
+      "frontendId": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "problemName": "0061-rotate-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+      "folderPath": "0061-rotate-list/",
+      "readmePath": "0061-rotate-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0061-rotate-list.py",
+          "path": "0061-rotate-list/0061-rotate-list.py",
+          "sha": "27e42c02660a748f067d9a08fd6f98ac4ee10c0d",
+          "lastSyncedAt": "2026-10-22T13:00:41.612Z"
+        }
+      ]
+    },
     {
       "frontendId": "876",
       "title": "Middle of the Linked List",
