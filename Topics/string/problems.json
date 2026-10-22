@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T12:59:47.850Z",
+  "updatedAt": "2026-10-22T13:00:35.232Z",
   "problems": [
     {
       "frontendId": "28",
@@ -24,6 +24,26 @@
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "sha": "1ddcfe3c3264edbdc10096100c3f7b7c41d6ee98",
           "lastSyncedAt": "2026-10-22T12:59:47.850Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "problemName": "0344-reverse-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
+      "folderPath": "0344-reverse-string/",
+      "readmePath": "0344-reverse-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0344-reverse-string.py",
+          "path": "0344-reverse-string/0344-reverse-string.py",
+          "sha": "56094f2cab23290816fed5056d77a8736a1d981e",
+          "lastSyncedAt": "2026-10-22T13:00:35.232Z"
         }
       ]
     },
