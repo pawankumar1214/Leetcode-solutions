@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation",
+    "tagId": "61055"
+  },
+  "updatedAt": "2026-10-22T12:57:26.131Z",
+  "problems": [
+    {
+      "frontendId": "2460",
+      "title": "Apply Operations to an Array",
+      "slug": "apply-operations-to-an-array",
+      "problemName": "2460-apply-operations-to-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/apply-operations-to-an-array/",
+      "folderPath": "2460-apply-operations-to-an-array/",
+      "readmePath": "2460-apply-operations-to-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2460-apply-operations-to-an-array.py",
+          "path": "2460-apply-operations-to-an-array/2460-apply-operations-to-an-array.py",
+          "sha": "f6b350b4f73e7abd4f58ce69023bec8bb87887ea",
+          "lastSyncedAt": "2026-10-22T12:57:26.131Z"
+        }
+      ]
+    }
+  ]
+}
