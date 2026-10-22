@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-table",
+    "name": "Hash Table",
+    "tagId": "6"
+  },
+  "updatedAt": "2026-10-22T12:57:11.279Z",
+  "problems": [
+    {
+      "frontendId": "2465",
+      "title": "Number of Distinct Averages",
+      "slug": "number-of-distinct-averages",
+      "problemName": "2465-number-of-distinct-averages",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-distinct-averages/",
+      "folderPath": "2465-number-of-distinct-averages/",
+      "readmePath": "2465-number-of-distinct-averages/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2465-number-of-distinct-averages.py",
+          "path": "2465-number-of-distinct-averages/2465-number-of-distinct-averages.py",
+          "sha": "49546c7aaba683c046d57673adc8592f6e1aca5b",
+          "lastSyncedAt": "2026-10-22T12:57:11.279Z"
+        }
+      ]
+    }
+  ]
+}
