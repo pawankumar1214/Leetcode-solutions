@@ -53,8 +53,8 @@ Explanation: Since no enemy fort can be captured, 0 is returned.
 
 **Language:** Python  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 19 MB (beats 99.04%)  
-**Submitted:** 2026-10-22T13:02:20.606Z  
+**Memory:** 19.3 MB (beats 62.68%)  
+**Submitted:** 2026-10-22T13:02:57.759Z  
 
 ```py
 class Solution:
