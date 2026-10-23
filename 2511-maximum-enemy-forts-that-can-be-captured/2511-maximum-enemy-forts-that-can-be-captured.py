@@ -8,5 +8,4 @@ class Solution:
                 if prev != -1 and forts[i] != forts[prev]:
                     result = max(result, i-prev-1)
                 prev = i
-        return result 
-        
+        return result
