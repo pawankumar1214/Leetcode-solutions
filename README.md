@@ -15,9 +15,18 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0942-di-string-match](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0942-di-string-match) |
 ## Greedy
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0942-di-string-match) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
