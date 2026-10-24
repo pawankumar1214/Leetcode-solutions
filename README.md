@@ -6,11 +6,13 @@
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0942-di-string-match) |
+| [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Two Pointers
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0942-di-string-match) |
+| [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## String
 |  |
@@ -42,4 +44,5 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0067-add-binary) |
+| [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
