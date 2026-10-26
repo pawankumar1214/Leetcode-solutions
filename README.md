@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0942-di-string-match) |
+| [1332-remove-palindromic-subsequences](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## String
@@ -22,6 +23,7 @@
 | [0067-add-binary](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0942-di-string-match](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0942-di-string-match) |
+| [1332-remove-palindromic-subsequences](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 ## Greedy
 |  |
 | ------- |
