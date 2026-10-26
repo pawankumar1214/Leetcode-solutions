@@ -24,6 +24,7 @@
 | [0168-excel-sheet-column-title](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0942-di-string-match](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [1332-remove-palindromic-subsequences](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 ## Greedy
@@ -51,4 +52,20 @@
 | ------- |
 | [0067-add-binary](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0067-add-binary) |
 | [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
