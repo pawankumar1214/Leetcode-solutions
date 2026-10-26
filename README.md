@@ -26,6 +26,7 @@
 | [0205-isomorphic-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0942-di-string-match](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [1332-remove-palindromic-subsequences](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 ## Greedy
@@ -38,6 +39,7 @@
 | [0013-roman-to-integer](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -70,4 +72,12 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
