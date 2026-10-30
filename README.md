@@ -29,6 +29,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0942-di-string-match](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [1332-remove-palindromic-subsequences](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 ## Greedy
@@ -52,6 +53,7 @@
 | [0168-excel-sheet-column-title](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0415-add-strings) |
 | [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Backtracking
 |  |
