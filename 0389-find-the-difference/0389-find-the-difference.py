@@ -9,3 +9,4 @@ class Solution:
             result ^= ord(char)
         
         return chr(result)
+        
