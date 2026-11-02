@@ -27,6 +27,7 @@
 | [0257-binary-tree-paths](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0415-add-strings) |
@@ -44,6 +45,7 @@
 | [0205-isomorphic-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 ## Math
 |  |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -89,4 +92,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
