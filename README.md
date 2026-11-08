@@ -9,6 +9,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
+| [1002-find-common-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1002-find-common-characters) |
 | [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Two Pointers
@@ -35,6 +36,7 @@
 | [0412-fizz-buzz](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0942-di-string-match](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0942-di-string-match) |
+| [1002-find-common-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1332-remove-palindromic-subsequences](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 ## Greedy
 |  |
@@ -51,6 +53,7 @@
 | [0389-find-the-difference](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0997-find-the-town-judge](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1002-find-common-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1002-find-common-characters) |
 ## Math
 |  |
 | ------- |
