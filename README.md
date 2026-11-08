@@ -8,6 +8,7 @@
 | [0942-di-string-match](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [0989-add-to-array-form-of-integer](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [0999-available-captures-for-rook](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Two Pointers
@@ -71,6 +72,7 @@
 | [0067-add-binary](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0415-add-strings) |
+| [0999-available-captures-for-rook](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Backtracking
 |  |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
+## Matrix
+|  |
+| ------- |
+| [0999-available-captures-for-rook](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 <!---LeetCode Topics End-->
