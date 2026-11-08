@@ -1,0 +1,15 @@
+class Solution:
+    def addToArrayForm(self, num: list[int], k: int) -> list[int]:
+        result = []
+        i = len(num) - 1
+
+        while i >= 0 or k > 0:
+            if i >= 0:
+                k += num[i]
+                i -= 1
+            
+            result.append(k%10)
+            k //= 10
+        
+        result.reverse()
+        return result
