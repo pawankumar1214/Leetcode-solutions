@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0942-di-string-match) |
+| [0989-add-to-array-form-of-integer](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Two Pointers
@@ -56,6 +57,7 @@
 | [0171-excel-sheet-column-number](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0415-add-strings) |
+| [0989-add-to-array-form-of-integer](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
