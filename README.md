@@ -7,6 +7,7 @@
 | ------- |
 | [0942-di-string-match](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [0989-add-to-array-form-of-integer](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [0997-find-the-town-judge](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Two Pointers
@@ -48,6 +49,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0997-find-the-town-judge](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
 ## Math
 |  |
 | ------- |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0389-find-the-difference) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
