@@ -49,9 +49,9 @@ Explanation: The first three characters "app" match, and the second string is sh
 ## Solution
 
 **Language:** Python  
-**Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 19.1 MB (beats 96.05%)  
-**Submitted:** 2026-11-09T16:46:17.893Z  
+**Runtime:** 1 ms (beats 21.17%)  
+**Memory:** 18.9 MB (beats 98.77%)  
+**Submitted:** 2026-11-09T16:46:24.462Z  
 
 ```py
 class Solution:
