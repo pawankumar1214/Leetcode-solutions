@@ -39,8 +39,8 @@ Output: 5
 
 **Language:** Python  
 **Runtime:** 1 ms (beats 85.50%)  
-**Memory:** 44.2 MB (beats 90.95%)  
-**Submitted:** 2026-11-09T16:42:42.440Z  
+**Memory:** 44.3 MB (beats 82.01%)  
+**Submitted:** 2026-11-09T16:43:13.598Z  
 
 ```py
 from collections import deque
@@ -71,6 +71,7 @@ class Solution:
             minLevel += 1
 
         return minLevel
+# end
 ```
 
 ---
