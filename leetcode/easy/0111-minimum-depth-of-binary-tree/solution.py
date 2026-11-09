@@ -26,3 +26,4 @@ class Solution:
             minLevel += 1
 
         return minLevel
+# end
