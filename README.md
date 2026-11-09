@@ -84,14 +84,17 @@
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Queue
 |  |
@@ -113,4 +116,8 @@
 |  |
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
