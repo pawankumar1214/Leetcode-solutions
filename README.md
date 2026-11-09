@@ -1,123 +1,49 @@
+<div align="center">
 
+# 🧠 Coding Solutions
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0942-di-string-match](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0942-di-string-match) |
-| [0989-add-to-array-form-of-integer](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
-| [0997-find-the-town-judge](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
-| [0999-available-captures-for-rook](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
-| [1002-find-common-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1002-find-common-characters) |
-| [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
-| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
-## Two Pointers
-|  |
-| ------- |
-| [0942-di-string-match](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0942-di-string-match) |
-| [1332-remove-palindromic-subsequences](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
-| [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
-| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
-## String
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0013-roman-to-integer) |
-| [0058-length-of-last-word](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0058-length-of-last-word) |
-| [0067-add-binary](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0067-add-binary) |
-| [0168-excel-sheet-column-title](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
-| [0171-excel-sheet-column-number](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
-| [0205-isomorphic-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
-| [0257-binary-tree-paths](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
-| [0290-word-pattern](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0290-word-pattern) |
-| [0387-first-unique-character-in-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
-| [0389-find-the-difference](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0389-find-the-difference) |
-| [0409-longest-palindrome](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0409-longest-palindrome) |
-| [0412-fizz-buzz](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0412-fizz-buzz) |
-| [0415-add-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0415-add-strings) |
-| [0942-di-string-match](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0942-di-string-match) |
-| [1002-find-common-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1002-find-common-characters) |
-| [1332-remove-palindromic-subsequences](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
-## Greedy
-|  |
-| ------- |
-| [0409-longest-palindrome](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0409-longest-palindrome) |
-| [0942-di-string-match](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0942-di-string-match) |
-## Hash Table
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0013-roman-to-integer) |
-| [0205-isomorphic-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
-| [0290-word-pattern](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0290-word-pattern) |
-| [0387-first-unique-character-in-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
-| [0389-find-the-difference](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0389-find-the-difference) |
-| [0409-longest-palindrome](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0409-longest-palindrome) |
-| [0997-find-the-town-judge](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
-| [1002-find-common-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1002-find-common-characters) |
-## Math
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0013-roman-to-integer) |
-| [0067-add-binary](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0067-add-binary) |
-| [0168-excel-sheet-column-title](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
-| [0171-excel-sheet-column-number](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
-| [0412-fizz-buzz](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0412-fizz-buzz) |
-| [0415-add-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0415-add-strings) |
-| [0989-add-to-array-form-of-integer](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0067-add-binary](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0067-add-binary) |
-| [0389-find-the-difference](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0389-find-the-difference) |
-## Simulation
-|  |
-| ------- |
-| [0067-add-binary](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0067-add-binary) |
-| [0412-fizz-buzz](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0412-fizz-buzz) |
-| [0415-add-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0415-add-strings) |
-| [0999-available-captures-for-rook](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
-| [2460-apply-operations-to-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
-## Backtracking
-|  |
-| ------- |
-| [0257-binary-tree-paths](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
-## Tree
-|  |
-| ------- |
-| [0111-minimum-depth-of-binary-tree](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
-| [0257-binary-tree-paths](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
-## Depth-First Search
-|  |
-| ------- |
-| [0111-minimum-depth-of-binary-tree](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
-| [0257-binary-tree-paths](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
-## Binary Tree
-|  |
-| ------- |
-| [0111-minimum-depth-of-binary-tree](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
-| [0257-binary-tree-paths](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
-## Queue
-|  |
-| ------- |
-| [0387-first-unique-character-in-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
-## Counting
-|  |
-| ------- |
-| [0387-first-unique-character-in-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
-## Sorting
-|  |
-| ------- |
-| [0389-find-the-difference](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0389-find-the-difference) |
-## Graph Theory
-|  |
-| ------- |
-| [0997-find-the-town-judge](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
-## Matrix
-|  |
-| ------- |
-| [0999-available-captures-for-rook](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0111-minimum-depth-of-binary-tree](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
-<!---LeetCode Topics End-->
+![Total Solved](https://img.shields.io/badge/Total_Solved-1-blue?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-09--11--2026-green?style=for-the-badge)
+
+> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
+
+</div>
+
+---
+
+## 📊 Stats
+
+| Difficulty | Solved |
+|:---:|:---:|
+| 🟢 Easy | **1** |
+| 🟡 Medium | **0** |
+| 🔴 Hard | **0** |
+| **Total** | **1** |
+
+## 🛠️ Languages
+
+| Language | Solutions |
+|:---:|:---:|
+| Python | **1** |
+
+## 📂 Repository Structure
+
+```
+📦 coding-solutions/
+├── leetcode/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+├── hackerrank/
+├── codechef/
+└── gfg/
+```
+
+---
+
+<div align="center">
+
+*Last updated: 2026-11-09* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+
+</div>
