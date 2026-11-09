@@ -38,9 +38,9 @@ Output: 5
 ## Solution
 
 **Language:** Python  
-**Runtime:** 3 ms (beats 75.74%)  
-**Memory:** 44.3 MB (beats 90.95%)  
-**Submitted:** 2026-11-09T16:42:13.131Z  
+**Runtime:** 1 ms (beats 85.50%)  
+**Memory:** 44.2 MB (beats 90.95%)  
+**Submitted:** 2026-11-09T16:42:42.440Z  
 
 ```py
 from collections import deque
