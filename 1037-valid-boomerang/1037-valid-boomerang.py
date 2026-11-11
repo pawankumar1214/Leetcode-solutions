@@ -7,3 +7,4 @@ class Solution:
         dy2, dx2 = get_slope(points[1], points[2])
 
         return dy1 * dx2 != dy2 * dx1
+# end
