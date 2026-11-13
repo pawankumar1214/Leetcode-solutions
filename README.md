@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1030-matrix-cells-in-distance-order](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1051-height-checker) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Sorting
 |  |
 | ------- |
