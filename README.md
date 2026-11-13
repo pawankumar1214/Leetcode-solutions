@@ -7,6 +7,7 @@
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1037-valid-boomerang) |
+| [1051-height-checker](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1051-height-checker) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1051-height-checker) |
 ## Quicksort
 |  |
 | ------- |
@@ -51,4 +53,12 @@
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
