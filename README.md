@@ -10,6 +10,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Math
 |  |
 | ------- |
@@ -51,10 +52,12 @@
 | [0976-largest-perimeter-triangle](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1030-matrix-cells-in-distance-order](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Polygons
 |  |
 | ------- |
@@ -63,12 +66,18 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Matrix
 |  |
 | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
+## Hash Table
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
