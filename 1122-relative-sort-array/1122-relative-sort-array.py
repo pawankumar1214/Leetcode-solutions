@@ -15,5 +15,3 @@ class Solution:
                 res.append(n)
         return res + end
 
-
-
