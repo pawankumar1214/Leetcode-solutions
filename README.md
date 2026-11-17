@@ -29,6 +29,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0504-base-7) |
+| [1021-remove-outermost-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -80,4 +81,12 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
