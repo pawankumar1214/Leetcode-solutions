@@ -30,6 +30,7 @@
 | [0459-repeated-substring-pattern](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0504-base-7) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0551-student-attendance-record-i](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
