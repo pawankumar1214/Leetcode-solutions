@@ -35,6 +35,7 @@
 | [0709-to-lower-case](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0796-rotate-string) |
+| [0830-positions-of-large-groups](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0830-positions-of-large-groups) |
 | [1021-remove-outermost-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
