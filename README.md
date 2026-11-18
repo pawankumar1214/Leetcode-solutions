@@ -34,12 +34,14 @@
 | [0551-student-attendance-record-i](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
