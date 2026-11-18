@@ -40,6 +40,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1021-remove-outermost-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1078-occurrences-after-bigram](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1078-occurrences-after-bigram) |
 ## String Matching
 |  |
 | ------- |
