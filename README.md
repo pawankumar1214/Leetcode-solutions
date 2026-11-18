@@ -33,6 +33,7 @@
 | [0521-longest-uncommon-subsequence-i](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
@@ -85,6 +86,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1122-relative-sort-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Stack
 |  |
