@@ -49,6 +49,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1360-number-of-days-between-two-dates) |
+| [1370-increasing-decreasing-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 ## String Matching
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1370-increasing-decreasing-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [1122-relative-sort-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1370-increasing-decreasing-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 ## Stack
 |  |
 | ------- |
