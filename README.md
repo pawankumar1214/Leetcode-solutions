@@ -45,6 +45,7 @@
 | [1078-occurrences-after-bigram](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1078-occurrences-after-bigram) |
 | [1154-day-of-the-year](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## String Matching
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [1051-height-checker](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1122-relative-sort-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
 | ------- |
