@@ -51,6 +51,7 @@
 | [1360-number-of-days-between-two-dates](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [1370-increasing-decreasing-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1417-reformat-the-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1417-reformat-the-string) |
 ## String Matching
 |  |
 | ------- |
