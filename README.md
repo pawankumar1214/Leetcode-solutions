@@ -46,6 +46,7 @@
 | [1154-day-of-the-year](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [1122-relative-sort-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Bubble Sort
 |  |
 | ------- |
