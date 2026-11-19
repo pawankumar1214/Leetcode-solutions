@@ -18,6 +18,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1030-matrix-cells-in-distance-order](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1037-valid-boomerang) |
+| [1154-day-of-the-year](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1154-day-of-the-year) |
 ## Geometry
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-occurrences-after-bigram](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1078-occurrences-after-bigram) |
+| [1154-day-of-the-year](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1154-day-of-the-year) |
 ## String Matching
 |  |
 | ------- |
