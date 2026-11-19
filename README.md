@@ -11,6 +11,7 @@
 | [1037-valid-boomerang](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-occurrences-after-bigram](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1078-occurrences-after-bigram) |
 | [1154-day-of-the-year](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1154-day-of-the-year) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1051-height-checker](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -99,6 +102,7 @@
 | [0859-buddy-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1122-relative-sort-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Stack
 |  |
 | ------- |
