@@ -20,6 +20,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1154-day-of-the-year](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1154-day-of-the-year) |
+| [1360-number-of-days-between-two-dates](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1360-number-of-days-between-two-dates) |
 ## Geometry
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1360-number-of-days-between-two-dates](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1360-number-of-days-between-two-dates) |
 ## String Matching
 |  |
 | ------- |
