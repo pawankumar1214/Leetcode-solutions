@@ -12,3 +12,4 @@ class Solution:
             if balance == 0:
                 count += 1
         return count
+        
