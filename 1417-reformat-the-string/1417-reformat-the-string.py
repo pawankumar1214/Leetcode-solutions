@@ -33,3 +33,4 @@ class Solution:
             
             turn_letter = not turn_letter
         return "".join(result)
+        
