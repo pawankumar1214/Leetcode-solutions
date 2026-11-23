@@ -4,3 +4,4 @@ class Solution:
         cnt['o'] >>= 1
         cnt['l'] >>= 1
         return min(cnt[c] for c in 'balon')
+        
