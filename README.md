@@ -54,6 +54,7 @@
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1408-string-matching-in-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1417-reformat-the-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1417-reformat-the-string) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -128,4 +129,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
