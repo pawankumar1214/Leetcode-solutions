@@ -62,6 +62,7 @@
 | [1496-path-crossing](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1544-make-the-string-great](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1544-make-the-string-great) |
 ## String Matching
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
 |  |
 | ------- |
