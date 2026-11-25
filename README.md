@@ -12,6 +12,7 @@
 | [1051-height-checker](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1408-string-matching-in-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -51,12 +52,14 @@
 | [1360-number-of-days-between-two-dates](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [1370-increasing-decreasing-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1408-string-matching-in-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1417-reformat-the-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1417-reformat-the-string) |
 ## String Matching
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 ## Z Algorithm
 |  |
 | ------- |
