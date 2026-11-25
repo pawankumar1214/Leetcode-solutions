@@ -57,6 +57,7 @@
 | [1417-reformat-the-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1417-reformat-the-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1436-destination-city) |
+| [1446-consecutive-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1446-consecutive-characters) |
 ## String Matching
 |  |
 | ------- |
