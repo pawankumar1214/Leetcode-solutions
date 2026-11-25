@@ -58,6 +58,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1446-consecutive-characters) |
+| [1496-path-crossing](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1496-path-crossing) |
 ## String Matching
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1370-increasing-decreasing-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1436-destination-city](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1436-destination-city) |
+| [1496-path-crossing](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1496-path-crossing) |
 ## Stack
 |  |
 | ------- |
