@@ -5,3 +5,4 @@ class Solution:
         for path in paths:
             if path[1] not in starting_cities:
                 return path[1]
+                
