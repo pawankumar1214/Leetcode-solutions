@@ -64,6 +64,7 @@
 | [1528-shuffle-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1556-thousand-separator) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 ## String Matching
 |  |
 | ------- |
