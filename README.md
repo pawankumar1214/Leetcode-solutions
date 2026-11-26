@@ -70,6 +70,7 @@
 | [1592-rearrange-spaces-between-words](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1592-rearrange-spaces-between-words) |
 | [1598-crawler-log-folder](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1678-goal-parser-interpretation](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String Matching
@@ -140,6 +141,7 @@
 | [1370-increasing-decreasing-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1436-destination-city](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1496-path-crossing) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
