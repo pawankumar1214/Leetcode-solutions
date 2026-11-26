@@ -16,6 +16,7 @@
 | [1436-destination-city](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1598-crawler-log-folder) |
+| [1629-slowest-key](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1629-slowest-key) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Math
 |  |
@@ -71,6 +72,7 @@
 | [1598-crawler-log-folder](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1629-slowest-key](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1629-slowest-key) |
 | [1678-goal-parser-interpretation](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String Matching
