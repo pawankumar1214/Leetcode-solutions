@@ -69,6 +69,7 @@
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1592-rearrange-spaces-between-words](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1592-rearrange-spaces-between-words) |
 | [1598-crawler-log-folder](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1598-crawler-log-folder) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String Matching
@@ -147,10 +148,12 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1598-crawler-log-folder) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
