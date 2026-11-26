@@ -66,6 +66,7 @@
 | [1544-make-the-string-great](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1556-thousand-separator) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1592-rearrange-spaces-between-words](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1592-rearrange-spaces-between-words) |
 | [1678-goal-parser-interpretation](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String Matching
