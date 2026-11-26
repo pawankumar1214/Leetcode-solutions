@@ -75,6 +75,7 @@
 | [1624-largest-substring-between-two-equal-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1629-slowest-key](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1629-slowest-key) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1668-maximum-repeating-substring](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String Matching
@@ -83,6 +84,7 @@
 | [0459-repeated-substring-pattern](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
+| [1668-maximum-repeating-substring](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
