@@ -15,6 +15,7 @@
 | [1408-string-matching-in-an-array](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1598-crawler-log-folder](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Math
 |  |
@@ -67,6 +68,7 @@
 | [1556-thousand-separator](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1556-thousand-separator) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1592-rearrange-spaces-between-words](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1592-rearrange-spaces-between-words) |
+| [1598-crawler-log-folder](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1678-goal-parser-interpretation](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String Matching
@@ -144,6 +146,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1598-crawler-log-folder) |
 ## Bracket Sequences
 |  |
 | ------- |
