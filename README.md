@@ -19,6 +19,7 @@
 | [1629-slowest-key](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1629-slowest-key) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1773-count-items-matching-a-rule](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1763-longest-nice-substring](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1763-longest-nice-substring) |
+| [1773-count-items-matching-a-rule](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 ## String Matching
 |  |
 | ------- |
