@@ -86,6 +86,7 @@
 | [1763-longest-nice-substring](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1763-longest-nice-substring) |
 | [1773-count-items-matching-a-rule](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## String Matching
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [1370-increasing-decreasing-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [1624-largest-substring-between-two-equal-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1763-longest-nice-substring) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Stack
 |  |
 | ------- |
