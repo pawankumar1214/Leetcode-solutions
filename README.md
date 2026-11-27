@@ -81,6 +81,7 @@
 | [1694-reformat-phone-number](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1694-reformat-phone-number) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## String Matching
 |  |
 | ------- |
