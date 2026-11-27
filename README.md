@@ -78,6 +78,7 @@
 | [1668-maximum-repeating-substring](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1694-reformat-phone-number](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1694-reformat-phone-number) |
 ## String Matching
 |  |
 | ------- |
