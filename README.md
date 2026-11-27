@@ -82,6 +82,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1763-longest-nice-substring](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1763-longest-nice-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [1496-path-crossing](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1496-path-crossing) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1763-longest-nice-substring](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1763-longest-nice-substring) |
 ## Stack
 |  |
 | ------- |
@@ -176,8 +178,17 @@
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1763-longest-nice-substring](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1763-longest-nice-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/pawankumar1214/Leetcode-solutions/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
